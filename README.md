@@ -32,10 +32,11 @@ CSS
 
 
 Source Code and Preview 
-[Download](Gaurav_portfolio.pdf)
+[Download](Gaurav_Portfolio.pdf)
 
 
 📂 Folder Structure
+
 ├── index.html
 
 ├── style.css
@@ -46,5 +47,7 @@ Source Code and Preview
 
 📞 Contact
 Feel free to connect with me!
+
 Email: gsingg54189@gmail.com
+
 GitHub: github.com/wellgauravv
