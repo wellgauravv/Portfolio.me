@@ -32,7 +32,7 @@ CSS
 
 
 Source Code and Preview 
-[Download](Gaurav_Portfolio.pdf)
+[Download](Gaurav_Portfolio.docx)
 
 
 📂 Folder Structure
